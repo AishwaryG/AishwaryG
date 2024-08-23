@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aishwary Gupta</h1>
 <h3 align="center">A passionate Frontend Developer from Uttar Pradesh</h3>
 
-- 🌱 I’m currently learning **PHP and NextJs**
+- 🌱 I’m currently learning **MERN STACK**
+- ⚡  **PHP Full Stack Done**
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
