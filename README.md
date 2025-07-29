@@ -34,9 +34,9 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.vectorlogo.zone/logos/socketio/images/17f1cf5d-1c77-4a45-8594-4a3ed00e5e47.svg" alt="Socket.IO" width="40" height="40"/>
-  </a>
+<a href="https://socket.io/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" width="40" height="40"/>
+</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
