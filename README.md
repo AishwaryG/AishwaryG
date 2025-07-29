@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aishwary Gupta</h1>
 <h3 align="center">A passionate Developer from Uttar Pradesh, India</h3>
 
-- 🌱 I’m currently learning **MERN STACK**
-- ⚡  **NodeJs Full Stack Developer**
+- 🌱 I’m currently Working **MERN STACK**
+- 🧑‍💻 Working at **NIIT Managed Training Services Pvt. Ltd.** Gurugram, Haryana, India.
+- ⚡ **NodeJs Full Stack Developer**
 
 - 👯 I’m looking to collaborate on **Web Development Opportunity**
 
@@ -17,6 +18,7 @@
 <a href="https://instagram.com/slicky_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="slicky_coder" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages, Tools & AI Platforms:</h3>
 <p align="left">
   <!-- Core Dev Stack -->
@@ -30,13 +32,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/socketio/socket.io/master/docs/images/logo.svg" alt="Socket.IO" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -60,30 +62,31 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 
-  <!-- AI Tools -->
+  <!-- AI Tools (text-only fallback for unreliable logos) -->
   <a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="ChatGPT" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" alt="ChatGPT" width="40" height="40"/>
   </a>
   <a href="https://www.anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/anthropic-logo-2F0580D646-seeklogo.com.png" alt="Claude" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Anthropic_logo.svg/2560px-Anthropic_logo.svg.png" alt="Claude" width="80" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
   </a>
   <a href="https://www.midjourney.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/midjourney.svg" alt="Midjourney" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/midjourney/midjourney-original.svg" alt="Midjourney" width="40" height="40" onerror="this.style.display='none'"/>
+    <strong>Midjourney</strong>
   </a>
-  <a href="https://www.leonardo.ai/" target="_blank" rel="noreferrer">
-    <img src="https://assets-global.website-files.com/6466f0f6aa47aebd1a49df80/646c809a6dfe6ac839f96337_Frame%20427318632.png" alt="Leonardo AI" width="40" height="40"/>
+  <a href="https://leonardo.ai/" target="_blank" rel="noreferrer">
+    <strong>Leonardo AI</strong>
   </a>
-  <a href="https://elevenlabs.io/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/E/elevenlabs-logo-57C16A09D6-seeklogo.com.png" alt="ElevenLabs" width="40" height="40"/>
+  <a href="https://www.elevenlabs.io/" target="_blank" rel="noreferrer">
+    <strong>ElevenLabs</strong>
   </a>
   <a href="https://fluxschnell.com/" target="_blank" rel="noreferrer">
-    <img src="https://fluxschnell.com/logo192.png" alt="Flux Schnell" width="40" height="40"/>
+    <strong>Flux Schnell</strong>
   </a>
   <a href="https://github.com/facebookresearch/lama" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/facebookresearch/lama/master/docs/source/_static/imgs/lama-logo.png" alt="Lama" width="40" height="40"/>
+    <strong>LLaMA</strong>
   </a>
 </p>
 
