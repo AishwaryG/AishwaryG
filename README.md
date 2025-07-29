@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Frontend Developer from Uttar Pradesh</h3>
 
 - 🌱 I’m currently learning **MERN STACK**
-- ⚡  **PHP Full Stack Done**
+- ⚡  **NodeJs Full Stack Developer**
 
-- 👯 I’m looking to collaborate on **Web Development Project**
+- 👯 I’m looking to collaborate on **Web Development Opportunity**
 
 - 📫 How to reach me **aishwarygupta15@gmail.com**
 
